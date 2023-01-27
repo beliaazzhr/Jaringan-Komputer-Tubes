@@ -4,6 +4,7 @@ Perancangan yang akan dibuat adalah topologi dengan spesifikasi sebagai berikut 
 ![image](https://user-images.githubusercontent.com/75405613/215030121-0c64ef9b-56ba-46bb-95e5-01ba7118df8d.png)
 
 1.1.1. CLO 1
+
 Pada CLO ini terdapat spesifikasi pengerjaan dan kriteria penilaian yang akan
 dilakukan.
   • Goal :
@@ -14,6 +15,7 @@ dilakukan.
     network.
     
 1.1.2. CLO 2
+
 Pada CLO ini terdapat spesifikasi pengerjaan dan kriteria penilaian yang akan
 dilakukan.
   • Goal : Mengimplementasikan mekanisme Routing pada topologi yang
@@ -24,6 +26,7 @@ dilakukan.
   - Menganalisis routing yang digunakan menggunakan traceroute
   
 1.1.3. CLO 3
+
 Pada CLO ini terdapat spesifikasi pengerjaan dan kriteria penilaian yang akan
 dilakukan.
   • Goal : Membuktikan bahwa TCP telah diimplementasikan dengan benar pada
@@ -33,6 +36,7 @@ dilakukan.
   diinspeksi, dibuktikan dengan trafik di Wireshark/tcpdump.
   
 1.1.4. CLO 4
+
 Pada CLO ini terdapat spesifikasi pengerjaan dan kriteria penilaian yang akan
 dilakukan.
   • Goal : Menginspeksi penggunaan queue pada router jaringan.
